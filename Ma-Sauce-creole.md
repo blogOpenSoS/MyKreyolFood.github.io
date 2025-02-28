@@ -1,6 +1,6 @@
 # Ma Sauce Créole : Une Explosion de Saveurs Antillaises
 
-![Illustration de la Sauce Créole](image_url_placeholder)
+![Illustration de la Sauce Créole]([image_url_placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmcWZiUAGyCQC4e9B6b5_1Zqf-8FEeEnsaA&s)1)
 
 ## Introduction
 
